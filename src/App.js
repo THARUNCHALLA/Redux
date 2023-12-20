@@ -1,5 +1,5 @@
 import './App.css';
-import "./Strore.js"
+import "./Store.js"
 import Form from "./Form"
 import Account from "./Account"
 
